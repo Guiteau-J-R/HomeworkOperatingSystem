@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600800993 source:c:\users\dieury\documents\c\exo3_24\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<stdbool.h>
+
+1600882354 source:c:\users\user\documents\exo3_24\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600881939 source:c:\users\user\documents\exo3_24\collatzconjecture\main.c
+	<stdio.h>
+	<windows.h>
+
